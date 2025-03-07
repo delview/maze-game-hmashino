@@ -35,8 +35,10 @@
   "name":"mazegame",
   "resources":[
     {"id":{"name":"bonus_score_treasure","path":"objects/bonus_score_treasure/bonus_score_treasure.yy",},},
+    {"id":{"name":"breakblewall","path":"objects/breakblewall/breakblewall.yy",},},
     {"id":{"name":"Goal","path":"objects/Goal/Goal.yy",},},
     {"id":{"name":"pickaxe","path":"objects/pickaxe/pickaxe.yy",},},
+    {"id":{"name":"pickaxe2","path":"objects/pickaxe2/pickaxe2.yy",},},
     {"id":{"name":"player","path":"objects/player/player.yy",},},
     {"id":{"name":"wall","path":"objects/wall/wall.yy",},},
     {"id":{"name":"warp_1","path":"objects/warp_1/warp_1.yy",},},
@@ -45,6 +47,7 @@
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
     {"id":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
+    {"id":{"name":"breakble_wall","path":"sprites/breakble_wall/breakble_wall.yy",},},
     {"id":{"name":"pickaxes","path":"sprites/pickaxes/pickaxes.yy",},},
     {"id":{"name":"player_walking_down","path":"sprites/player_walking_down/player_walking_down.yy",},},
     {"id":{"name":"player_walking_left","path":"sprites/player_walking_left/player_walking_left.yy",},},

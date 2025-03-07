@@ -1,9 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"warp_1",
-  "eventList":[],
+  "%Name":"pickaxe2",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"warp_1",
+  "name":"pickaxe2",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"warphole",
-    "path":"sprites/warphole/warphole.yy",
+    "name":"pickaxes",
+    "path":"sprites/pickaxes/pickaxes.yy",
   },
   "spriteMaskId":null,
   "visible":true,

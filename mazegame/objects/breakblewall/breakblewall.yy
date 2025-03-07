@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"warp_1",
+  "%Name":"breakblewall",
   "eventList":[],
   "managed":true,
-  "name":"warp_1",
+  "name":"breakblewall",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"warphole",
-    "path":"sprites/warphole/warphole.yy",
+    "name":"breakble_wall",
+    "path":"sprites/breakble_wall/breakble_wall.yy",
   },
   "spriteMaskId":null,
   "visible":true,
