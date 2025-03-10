@@ -16,6 +16,6 @@ if(pick == 0){	/// @DnDAction : YoYo Games.Movement.Set_Speed
 if(pick == 1){	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
 	/// @DnDVersion : 1
 	/// @DnDHash : 013E3498
-	/// @DnDApplyTo : {breakblewall}
+	/// @DnDApplyTo : {breakablewall}
 	/// @DnDParent : 5A71E15E
-	with(breakblewall) instance_destroy();}
+	with(breakablewall) instance_destroy();}

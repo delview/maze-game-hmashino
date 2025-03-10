@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"breakblewall",
+  "%Name":"greenwall",
   "eventList":[],
   "managed":true,
-  "name":"breakblewall",
+  "name":"greenwall",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"breakble_wall",
-    "path":"sprites/breakble_wall/breakble_wall.yy",
+    "name":"green_wall",
+    "path":"sprites/green_wall/green_wall.yy",
   },
   "spriteMaskId":null,
   "visible":true,
