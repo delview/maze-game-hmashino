@@ -1,11 +1,11 @@
 /// @DnDAction : YoYo Games.Movement.Set_Speed
 /// @DnDVersion : 1
-/// @DnDHash : 68EFBCA9
+/// @DnDHash : 640AB84D
 speed = 0;
 
 /// @DnDAction : YoYo Games.Movement.Jump_To_Point
 /// @DnDVersion : 1
-/// @DnDHash : 14D4AC4C
-/// @DnDArgument : "x" "700"
-/// @DnDArgument : "y" "128"
-x = 700;y = 128;
+/// @DnDHash : 0EAE5503
+/// @DnDArgument : "x" "127"
+/// @DnDArgument : "y" "640"
+x = 127;y = 640;
