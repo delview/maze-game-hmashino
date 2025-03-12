@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Object17",
+  "%Name":"number3",
   "eventList":[],
   "managed":true,
-  "name":"Object17",
+  "name":"number3",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"won",
-    "path":"sprites/won/won.yy",
+    "name":"number_3",
+    "path":"sprites/number_3/number_3.yy",
   },
   "spriteMaskId":null,
   "visible":true,
