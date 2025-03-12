@@ -64,7 +64,6 @@
     {"id":{"name":"Room6","path":"rooms/Room6/Room6.yy",},},
     {"id":{"name":"broken","path":"sounds/broken/broken.yy",},},
     {"id":{"name":"loop","path":"sounds/loop/loop.yy",},},
-    {"id":{"name":"switch","path":"sounds/switch/switch.yy",},},
     {"id":{"name":"warp","path":"sounds/warp/warp.yy",},},
     {"id":{"name":"youwin5","path":"sounds/youwin5/youwin5.yy",},},
     {"id":{"name":"breakable_wall","path":"sprites/breakable_wall/breakable_wall.yy",},},
